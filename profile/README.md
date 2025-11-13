@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://osx-install.github.io/.github/vuescan-mac" target="_blank">
+  <a href="https://get-install-osx.github.io/.github/vuescan-mac" target="_blank">
     <img src="https://img.shields.io/badge/GET_VUESCAN_FOR_MAC-%F0%9F%93%A6-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get VueScan for Mac">
   </a>
 </div>
